@@ -1,6 +1,6 @@
 'use strict';
 
-require('dotenv').load();
+// require('dotenv').load();
 
 console.log(process.env.SECRET);
 
